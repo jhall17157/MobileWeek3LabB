@@ -1,0 +1,14 @@
+C:\Users\hallj\source\repos\AlcAgeLab\AlcAgeLab\AlcAgeLab\bin\Debug\netstandard2.0\AlcAgeLab.deps.json
+C:\Users\hallj\source\repos\AlcAgeLab\AlcAgeLab\AlcAgeLab\bin\Debug\netstandard2.0\AlcAgeLab.dll
+C:\Users\hallj\source\repos\AlcAgeLab\AlcAgeLab\AlcAgeLab\bin\Debug\netstandard2.0\ref\AlcAgeLab.dll
+C:\Users\hallj\source\repos\AlcAgeLab\AlcAgeLab\AlcAgeLab\bin\Debug\netstandard2.0\AlcAgeLab.pdb
+C:\Users\hallj\source\repos\AlcAgeLab\AlcAgeLab\AlcAgeLab\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hallj\source\repos\AlcAgeLab\AlcAgeLab\AlcAgeLab\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hallj\source\repos\AlcAgeLab\AlcAgeLab\AlcAgeLab\obj\Debug\netstandard2.0\AlcAgeLab.AssemblyInfoInputs.cache
+C:\Users\hallj\source\repos\AlcAgeLab\AlcAgeLab\AlcAgeLab\obj\Debug\netstandard2.0\AlcAgeLab.AssemblyInfo.cs
+C:\Users\hallj\source\repos\AlcAgeLab\AlcAgeLab\AlcAgeLab\obj\Debug\netstandard2.0\AlcAgeLab.csproj.CoreCompileInputs.cache
+C:\Users\hallj\source\repos\AlcAgeLab\AlcAgeLab\AlcAgeLab\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hallj\source\repos\AlcAgeLab\AlcAgeLab\AlcAgeLab\obj\Debug\netstandard2.0\AlcAgeLab.dll
+C:\Users\hallj\source\repos\AlcAgeLab\AlcAgeLab\AlcAgeLab\obj\Debug\netstandard2.0\ref\AlcAgeLab.dll
+C:\Users\hallj\source\repos\AlcAgeLab\AlcAgeLab\AlcAgeLab\obj\Debug\netstandard2.0\AlcAgeLab.pdb
+C:\Users\hallj\source\repos\AlcAgeLab\AlcAgeLab\AlcAgeLab\obj\Debug\netstandard2.0\AlcAgeLab.csprojAssemblyReference.cache

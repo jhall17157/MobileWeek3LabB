@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "EYxRUHrny2HSw63XOMHFTIQrls9KP/M1Tdpuy4D8CcHEhHh+HaQM8onUTH7n7E5shdluPYwIRNv79OUjEmGXMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hallj\\source\\repos\\AlcAgeLab\\AlcAgeLab\\AlcAgeLab\\AlcAgeLab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hallj\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hallj\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\hallj\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

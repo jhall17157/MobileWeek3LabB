@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kb740WcKbmzUSQIbp+Yh8CI87G3qBF8uFEDn8ssGIVmD0cHLrR8hO8ZK7RdIwlxEFx8Kkqu5C3uJ7cgFBHpQIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hallj\\source\\repos\\AlcAgeLab\\AlcAgeLab\\AlcAgeLab.iOS\\AlcAgeLab.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
